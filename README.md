@@ -90,3 +90,8 @@ This project is licensed under the MIT License.
 ## Credits
 
 Original repository by [JOY6IX9INE](https://github.com/JOY6IX9INE/Fitgirl-Easy-Downloader)
+
+### Donations
+If you feel like showing your love and/or appreciation for this Sipmle project, then how about shouting me a coffee :)
+
+[<img src="https://github.com/zinzied/Website-login-checker/assets/10098794/24f9935f-3637-4607-8980-06124c2d0225">](https://www.buymeacoffee.com/Zied)
