@@ -11,6 +11,11 @@ A Python-based tool that helps to easily download multiple files from fitgirl-re
 - 🎨 Colored terminal interface
 - 📁 Automatic file organization
 - 🔄 Automatic link removal after successful download
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/c2b8f304-8f86-4072-93db-92793bf4e318" />
+<img width="861" alt="image" src="https://github.com/user-attachments/assets/02b8a5da-5b9c-44ed-8fdd-1f853f268ce8" />
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/615dc9ee-7fd3-4f98-bd73-755de7147139" />
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/cc44a02a-22ef-40c6-a637-1d8c1f8a6acf" />
+
 
 ## Prerequisites
 
